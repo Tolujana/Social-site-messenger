@@ -1,0 +1,11 @@
+{
+  "name": "messenger",
+  "version": "1.0.0",
+  "description": "Messenger clone",
+  "main": "index.js",
+  "scripts": {
+    "Start": "index.js"
+  },
+  "author": "Tolujana",
+  "license": "ISC"
+}
